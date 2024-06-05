@@ -1,0 +1,7 @@
+numpy
+pandas
+hashlib
+altair<4
+streamlit
+pickle
+sklearn
