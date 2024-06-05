@@ -1,7 +1,7 @@
 numpy
 pandas
 hashlib
-altair<4
+altair<5
 streamlit
 pickle
 sklearn
