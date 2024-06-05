@@ -43,7 +43,7 @@ def verify_credentials(username, password):
     password_hash = hashlib.sha256(password.encode()).hexdigest()
 
     # Check if the username and hashed input password match the stored values
-    if username == "admin" and password_hash == "4126911a3b6c2506eae2ba766ba68776ecbb2fc34c36244b26ae12cdeebe3d5d":
+    if username == "admin" and password_hash == "add string or encrypted text ":
         return True
     else:
         return False
